@@ -28,18 +28,18 @@
 ### 📐 Utility
 
 #### >FTP
->\* FileZilla : 오픈 소스 크로스 플랫폼의 자유 소프트웨어인 FTP 소프트웨어. 자주 보안 패치, 기능 충실, 직관적.
+* FileZilla : 오픈 소스 크로스 플랫폼의 자유 소프트웨어인 FTP 소프트웨어. 자주 보안 패치, 기능 충실, 직관적.
 
 #### >APM
->\* autoset 10.7.2(64bit) : https://github.com/kbm0996/-SystemLink-CPPxPHPxDB/blob/master/AutoSet10/AutoSet10.7.2.10_x64.exe
+* autoset 10.7.2(64bit) : https://github.com/kbm0996/-SystemLink-CPPxPHPxDB/blob/master/AutoSet10/AutoSet10.7.2.10_x64.exe
 
 #### >Draw Tool
->\* Draw.io : 웹 드로우 툴 https://www.draw.io/
+* Draw.io : 웹 드로우 툴 https://www.draw.io/
 
 #### >의식의 흐름
->\* Zalgo Text Generator by Tchouky : http://www.eeemo.net/
->
->\* 올레TV 인식 자막 탬플릿
+* Zalgo Text Generator by Tchouky : http://www.eeemo.net/
+
+* 올레TV 인식 자막 탬플릿
 
     <SAMI>
     <HEAD>
