@@ -41,20 +41,20 @@
 
 * 올레TV 인식 자막 탬플릿
 
-    <SAMI>
-    <HEAD>
-    <TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
-    <STYLE TYPE="text/css">
-    <!--
-    P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
-    margin-top:2pt; font-size:14pt; text-align:center;
-    font-family:굴림, Arial; font-weight:normal; color:white;
-    background-color:black; }
-    .KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
-    #STDPrn { Name:Standard Print; }
-    #LargePrn { Name:Large Print; font-size:20pt; }
-    #SmallPrn { Name:Small Print; font-size:10pt; }
-    -->
-    </STYLE>
-    </HEAD>
-    <BODY>
+        <SAMI>
+        <HEAD>
+        <TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+        <STYLE TYPE="text/css">
+        <!--
+        P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+        margin-top:2pt; font-size:14pt; text-align:center;
+        font-family:굴림, Arial; font-weight:normal; color:white;
+        background-color:black; }
+        .KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+        #STDPrn { Name:Standard Print; }
+        #LargePrn { Name:Large Print; font-size:20pt; }
+        #SmallPrn { Name:Small Print; font-size:10pt; }
+        -->
+        </STYLE>
+        </HEAD>
+        <BODY>
