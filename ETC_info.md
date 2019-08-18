@@ -1,6 +1,9 @@
 # Reference
+
+
+
 ## Web Site
-### Study
+### ✏ Study
 \* C<>DE & T4LK5 : https://www.codentalks.com/
 
 \* 모두의 코드 : https://modoocode.com/
@@ -9,34 +12,34 @@
 
 \* GOOD DAY TO CODE(코테) : https://gooddaytocode.blogspot.com/2019/04/
 
-### Job
+### 📌 Job
 
 \* info1 : https://www.notion.so/f1f08b6eb13047a3b9ee032e62add08d
 
-### AntiVirus
+### ⚔ AntiVirus
 \* VIRUS ZERO Season 2 : https://cafe.naver.com/malzero
 
 ## MD
 
-\* Emoji : https://www.iemoji.com/
+* 윈도우 10 이모지 단축키 : (윈도우 로고키) + (마침표키) 또는 (윈도우 로고키) + (세미콜론키) 
 
 ## 기타
 
-### Utility
+### 📐 Utility
 
-#### FTP
-\* FileZilla : 오픈 소스 크로스 플랫폼의 자유 소프트웨어인 FTP 소프트웨어. 자주 보안 패치, 기능 충실, 직관적.
+#### >FTP
+>\* FileZilla : 오픈 소스 크로스 플랫폼의 자유 소프트웨어인 FTP 소프트웨어. 자주 보안 패치, 기능 충실, 직관적.
 
-#### APM
-\* autoset 10.7.2(64bit) : https://github.com/kbm0996/-SystemLink-CPPxPHPxDB/blob/master/AutoSet10/AutoSet10.7.2.10_x64.exe
+#### >APM
+>\* autoset 10.7.2(64bit) : https://github.com/kbm0996/-SystemLink-CPPxPHPxDB/blob/master/AutoSet10/AutoSet10.7.2.10_x64.exe
 
-#### Draw Tool
-\* Draw.io : 웹 드로우 툴 https://www.draw.io/
+#### >Draw Tool
+>\* Draw.io : 웹 드로우 툴 https://www.draw.io/
 
-#### 의식의 흐름
-\* Zalgo Text Generator by Tchouky : http://www.eeemo.net/
-
-\* 올레TV 인식 자막 탬플릿
+#### >의식의 흐름
+>\* Zalgo Text Generator by Tchouky : http://www.eeemo.net/
+>
+>\* 올레TV 인식 자막 탬플릿
 
     <SAMI>
     <HEAD>
