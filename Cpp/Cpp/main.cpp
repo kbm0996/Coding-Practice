@@ -8,7 +8,7 @@ int main() {
 	int i = 0;
 
 	while (i++ < 100)
-		cout << rand(-1000, 1000) << endl;
+		cout << mylib::rand(-1000.0, 1000.0) << endl;
 
 	return 0;
 }
