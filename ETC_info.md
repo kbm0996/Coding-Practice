@@ -4,20 +4,20 @@
 
 ## Web Site
 ### ✏ Study
-\* C<>DE & T4LK5 : https://www.codentalks.com/
+* C<>DE & T4LK5 : https://www.codentalks.com/
 
-\* 모두의 코드 : https://modoocode.com/
+* 모두의 코드 : https://modoocode.com/
 
-\* 프로그래머스(코테) : https://programmers.co.kr/learn/challenges
+* 프로그래머스(코테) : https://programmers.co.kr/learn/challenges
 
-\* GOOD DAY TO CODE(코테) : https://gooddaytocode.blogspot.com/2019/04/
+* GOOD DAY TO CODE(코테) : https://gooddaytocode.blogspot.com/2019/04/
 
 ### 📌 Job
 
-\* info1 : https://www.notion.so/f1f08b6eb13047a3b9ee032e62add08d
+* info1 : https://www.notion.so/f1f08b6eb13047a3b9ee032e62add08d
 
 ### ⚔ AntiVirus
-\* VIRUS ZERO Season 2 : https://cafe.naver.com/malzero
+* VIRUS ZERO Season 2 : https://cafe.naver.com/malzero
 
 ## MD
 
