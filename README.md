@@ -12,6 +12,12 @@
 
 * GOOD DAY TO CODE(코테) : https://gooddaytocode.blogspot.com/2019/04/
 
+* MySQL 한글 매뉴얼 : https://www.mysqlkorea.com/ex/mysql_reference.html
+
+* git 간편 안내서 : https://rogerdudler.github.io/git-guide/index.ko.html
+
+* \_icbm : https://trello.com/icbm_
+
 ### 📌 Job
 
 * info1 : https://www.notion.so/f1f08b6eb13047a3b9ee032e62add08d
@@ -19,9 +25,11 @@
 ### ⚔ AntiVirus
 * VIRUS ZERO Season 2 : https://cafe.naver.com/malzero
 
-## MD
+## 문서 작성 관련
 
 * 윈도우 10 이모지 단축키 : (윈도우 로고키) + (마침표키) 또는 (윈도우 로고키) + (세미콜론키) 
+
+* 카피킬러 출처 생성기 : https://citation.sawoo.com/ref/generation
 
 ## 기타
 
