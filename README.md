@@ -16,6 +16,8 @@
 
 * git 간편 안내서 : https://rogerdudler.github.io/git-guide/index.ko.html
 
+ ㄴ 커밋 메세지 수정 : https://github.com/HomoEfficio/dev-tips/blob/master/Git%20%EA%B3%BC%EA%B1%B0%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%EC%BB%A4%EB%B0%8B%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md
+
 * \_icbm : https://trello.com/icbm_
 
 ### 📌 Job
